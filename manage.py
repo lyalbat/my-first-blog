@@ -3,7 +3,13 @@
 import os
 import sys
 
-#superuser: larissa
+#token python anywhere: 040fed4a39ec7dd76a0a7f6b24438363f286f3b7
+
+'''superuser: 
+user: larissa
+email: dwlary@hotmail.com
+pass: django1234567
+'''
 
 
 def main():
